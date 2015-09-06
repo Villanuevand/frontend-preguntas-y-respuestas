@@ -1,8 +1,8 @@
-#GUIA DE PREGUNTAS PARA ENTREVISTAS DE TRABAJO
+#Posibles preguntas para entrevista de trabajo (Desarrollador Frontend).
 
-Este repositorio contiene preguntas de entrevistas a programadores front-end, que pueden ser usadas para revisar a candidatos potenciales. Bajo ningún concepto se recomienda usar todas las preguntas aquí expuestas con el mismo candidato (eso llevaría horas). Escoger algunos elementos de esta lista debería ayudarle a revisar las habilidades que requiere.
+Este repositorio contiene las respuestas a posibles preguntas de entrevistas a programadores front-end. La idea fundamental de este repo es incrementar mis conocimientos. 
 
-**Nota:** Tenga en mente que muchas de estas preguntas son abiertas y pueden llevar a interesantes discusiones que le pueden decir más sobre las capacidades de la persona que una simple respuesta.
+**Nota:** No se aceptarán ```pull requests```.
 
 ## Índice
 
