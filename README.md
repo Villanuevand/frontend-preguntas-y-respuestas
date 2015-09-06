@@ -2,7 +2,7 @@
 
 Este repositorio contiene las respuestas a posibles preguntas de entrevistas a programadores front-end. La idea fundamental de este repo es incrementar mis conocimientos. 
 
-**Nota:** No se aceptarán ```pull requests```.
+**Nota:** No se aceptarán ```pull requests``` o ```peticiones de envío```  para ***resolver preguntas***, solo se aceptarán aquellos que formulen ***nuevas preguntas***.
 
 ## Índice
 
