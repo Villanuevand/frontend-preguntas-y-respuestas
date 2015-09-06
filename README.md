@@ -13,12 +13,6 @@ Este repositorio contiene las respuestas a posibles preguntas de entrevistas a p
   1. [Preguntas de código](#codigojs)
   1. [Preguntas divertidas](#divertidas)
 
-## Contribuyendo
-
-  1. [Contribuyentes](#contribuyentes)
-  1. [Cómo contribuir](https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/master/CONTRIBUTING.md)
-  1. [Licencia](https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/master/LICENSE.md)
-
 ####<a name='general'>Preguntas generales:</a>
 
 * ¿Qué sistemas de control de versiones ha usado?
