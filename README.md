@@ -24,6 +24,17 @@ He usado GIT y Subversion (SVN), el primero mediante el úso de consola y el úl
 Debido a que desarrollo principalmente con `javascript` me siento muy cómo usando WebStorm y Sublime Text.
 
 ##### ¿Puede describir el proceso que sigue cuando crea una página web?
+
+Dependendiendo del tipo del proyecto puedo o usar generadores con Yeoman, o crear el Scaffolding manualmente. En caso de ser la segunda opción realizo los siguiente pasos: 
+
+ * Creción de archivo index.html. *(php, jsp, dependiendo del proyecto)*
+ * Crear estructura de carpetas para recursos del sitio:
+ 	* CSS - Archivos css
+ 	* IMAGES - Imágenes  
+ 	* JS - Archivos Javascript
+ 	* ASSETS - Librerías. (jquery, modernizr, prototype, etc.)
+ 	* FONTS - Fuentes tipográficas.
+ 
 ##### ¿Puede describir la diferencia entre "Progressive Enhancement" y "Graceful Degradation"?
 ##### Explique qué significa "HTML Semántico".
 ##### ¿Cuál es el navegador que utiliza principalmente para el desarrollo y qué herramientas de desarrollo usa?
