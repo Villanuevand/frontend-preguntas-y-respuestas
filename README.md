@@ -21,7 +21,7 @@ He usado GIT y Subversion (SVN), el primero mediante el úso de consola y el úl
 
 ##### ¿Cuál es su ambiente de desarrollo favorito?
 
-Debido a que desarrollo principalmente con `javascript` me siento muy cómo usando WebStorm y Sublime Text.
+Debido a que desarrollo principalmente con `javascript` me siento muy cómo usando [WebStorm](https://www.jetbrains.com/webstorm/ "Sitio Web de WebStorm") y [Sublime Text](http://www.sublimetext.com/ "Sitio web de Sublime Text").
 
 ##### ¿Puede describir el proceso que sigue cuando crea una página web?
 
