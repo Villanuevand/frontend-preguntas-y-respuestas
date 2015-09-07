@@ -16,6 +16,9 @@ Este repositorio contiene las respuestas a posibles preguntas de entrevistas a p
 ####<a name='general'>Preguntas generales:</a>
 
 ##### ¿Qué sistemas de control de versiones ha usado?
+
+He usado GIT y Subversion (SVN), el primero mediante el úso de consola y el último con el cliente "Tortoise".
+
 ##### ¿Cuál es su ambiente de desarrollo favorito?
 ##### ¿Puede describir el proceso que sigue cuando crea una página web?
 ##### ¿Puede describir la diferencia entre "Progressive Enhancement" y "Graceful Degradation"?
