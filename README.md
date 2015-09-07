@@ -15,23 +15,22 @@ Este repositorio contiene las respuestas a posibles preguntas de entrevistas a p
 
 ####<a name='general'>Preguntas generales:</a>
 
-* ¿Qué sistemas de control de versiones ha usado?
-* ¿Cuál es su ambiente de desarrollo favorito?
-* ¿Puede describir el proceso que sigue cuando crea una página web?
-* ¿Puede describir la diferencia entre "Progressive Enhancement" y "Graceful Degradation"?
-	* Puntos extra si el entrevistado menciona "detección de capacidades".
-* Explique qué significa "HTML Semántico".
-* ¿Cuál es el navegador que utiliza principalmente para el desarrollo y qué herramientas de desarrollo usa?
-* ¿Cómo optimiza los recursos de una web?
-* ¿Por qué es mejor utilizar varios dominios para distribuir los recursos de una página web?
-	* ¿Cuántos recursos se pueden descargar simultáneamente de un mismo dominio?
-* Mencione tres formas para disminuir el tiempo de carga de una página (tiempo real o percibido).
-* Si se ha unido a un proyecto y los desarrolladores usan tabs y usted usa espacios, ¿qué hace?
-* Escriba una página con una galería sencilla.
-* ¿Qué herramientas usa para probar el rendimiento de su código?
-* Si pudiera elegir una tecnología para dominar este año, ¿cuál sería?
-* Explique la importancia de estándares y los grupos que los definen.
-* ¿Sabe que es el FOUC? ¿Cómo lo evita?
+##### ¿Qué sistemas de control de versiones ha usado?
+##### ¿Cuál es su ambiente de desarrollo favorito?
+##### ¿Puede describir el proceso que sigue cuando crea una página web?
+##### ¿Puede describir la diferencia entre "Progressive Enhancement" y "Graceful Degradation"?
+##### Explique qué significa "HTML Semántico".
+##### ¿Cuál es el navegador que utiliza principalmente para el desarrollo y qué herramientas de desarrollo usa?
+##### ¿Cómo optimiza los recursos de una web?
+##### ¿Por qué es mejor utilizar varios dominios para distribuir los recursos de una página web?
+##### ¿Cuántos recursos se pueden descargar simultáneamente de un mismo dominio?
+##### Mencione tres formas para disminuir el tiempo de carga de una página (tiempo real o percibido).
+##### Si se ha unido a un proyecto y los desarrolladores usan tabs y usted usa espacios, ¿qué hace?
+##### Escriba una página con una galería sencilla.
+##### ¿Qué herramientas usa para probar el rendimiento de su código?
+##### Si pudiera elegir una tecnología para dominar este año, ¿cuál sería?
+##### Explique la importancia de estándares y los grupos que los definen.
+##### ¿Sabe que es el FOUC? ¿Cómo lo evita?
 
 ####<a name='html'>Preguntas específicas de HTML:</a>
 
