@@ -20,6 +20,9 @@ Este repositorio contiene las respuestas a posibles preguntas de entrevistas a p
 He usado GIT y Subversion (SVN), el primero mediante el úso de consola y el último con el cliente "Tortoise".
 
 ##### ¿Cuál es su ambiente de desarrollo favorito?
+
+Debido a que desarrollo principalmente con `javascript` me siento muy cómo usando WebStorm y Sublime Text.
+
 ##### ¿Puede describir el proceso que sigue cuando crea una página web?
 ##### ¿Puede describir la diferencia entre "Progressive Enhancement" y "Graceful Degradation"?
 ##### Explique qué significa "HTML Semántico".
