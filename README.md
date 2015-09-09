@@ -143,10 +143,20 @@ Un `hashtable` no es más que un objeto que almacena datos con una estructura `c
 * Si tiene que obtener un parametro de la URL, ¿cómo lo harías?
 * Explique la política de mismo origen (same-origin policy) y sus repercusiones en JavaScript.
 * ¿Puede describir los patrones de herencia en JavaScript?
-* Haga que este código funcione:
+
+##### Haga que este código funcione:
 ```javascript
 [1,2,3,4,5].duplicator(); // [1,2,3,4,5,1,2,3,4,5]
 ```
+Para realizar el método `duplicator()` debe extenderse el tipo `Array` utilizando la propiedad `Array.prototype` que representa el prototipo del constructor de `Array`.
+```javascript
+// Extendiendo Array con un método llamado "duplicator".
+Array.prototype.duplicator = function() {
+   // Se utiliza el método "concat".
+   return this.concat(this);   
+}
+````
+
 * ¿Puede describir una estrategia para memorización (*memoization*, evitar repetir cálculos) en JavaScript?
 * ¿Por qué reciben el nombre de sentencias ternarias? ¿Qué significa la palabra "ternaria"? 
 
