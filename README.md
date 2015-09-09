@@ -148,8 +148,24 @@ Un `hashtable` no es más que un objeto que almacena datos con una estructura `c
 [1,2,3,4,5].duplicator(); // [1,2,3,4,5,1,2,3,4,5]
 ```
 * ¿Puede describir una estrategia para memorización (*memoization*, evitar repetir cálculos) en JavaScript?
-* ¿Por qué reciben el nombre de sentencias ternarias? ¿Qué significa la palabra "ternaria"?  
-* Haga un ciclo `for` de `100` iteraciones que imprima **"fizz"** en los múltiplos de `3`, **"buzz"** en los múltiplos de 5 y **"fizzbuzz"** en los múltiplos de `3` y `5`
+* ¿Por qué reciben el nombre de sentencias ternarias? ¿Qué significa la palabra "ternaria"? 
+
+##### Haga un ciclo `for` de `100` iteraciones que imprima **"fizz"** en los múltiplos de `3`, **"buzz"** en los múltiplos de 5 y **"fizzbuzz"** en los múltiplos de `3` y `5`
+
+```
+for(var i = 1; i <= 100; i++) {   
+  if(i % 3 === 0 && i % 5 === 0)
+    console.log(i + ' fizzbuzz');
+   else { 
+      if(i % 5 === 0)
+        console.log(i + ' buzz');
+      else if (i % 3 === 0) 
+        console.log(i + ' fizz');
+      else 
+        console.log(i)
+   }    
+}
+```
 * De manera general, ¿por qué es una buena idea no usar el "ámbito" (scope) global de un sitio web?
 * ¿Qué es el `arity` de una función?
 * ¿Qué es `"use strict";`? ¿Cuáles son las ventajas y desventajas de usarlo?
