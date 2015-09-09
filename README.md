@@ -105,7 +105,13 @@ Cuando un evento es disparado en un elemento, este a su vez dispara el mismo eve
 * AMD vs. CommonJS?
 * ¿Qué bibliotecas de JavaScript ha usado?
 * ¿Alguna vez ha mirado el código fuente de bibliotecas/frameworks que utiliza?
-* ¿Qué es un `hashtable`?
+
+
+##### ¿Qué es un `hashtable`?
+
+Un `hashtable` no es más que un objeto que almacena datos con una estructura `clave : valor`
+
+
 * ¿Cuál es la diferencia entre variables `undefined` y variables `undeclared`?
 * ¿Qué es un "closure" y cuando, o por qué usaría uno?
 	* ¿Cuál es su patrón favorito para crearlos? Cuadriculado (Solo aplica a las IIFEs)
