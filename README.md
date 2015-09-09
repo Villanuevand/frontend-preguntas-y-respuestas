@@ -92,7 +92,13 @@ Dependendiendo del tipo del proyecto puedo o usar generadores con Yeoman, o crea
 
 ####<a name='js'>Preguntas específicas de JavaScript:</a>
 
-* Explique "event delegation".
+##### Explique "event delegation".
+
+"Event Delegation" o "Delegación de Evento" no es más que la metodología de javascript que permite evitar la utilización de muchos `listeners` en nodos puntuales, creando un único en un nodo padre, para saber si algun evento fué disparado. Esto es posible gracias a 2 funcionalidades importantes del lenguaje como lo son `event bubbling` o `Propagación de evento` y `event target` o `Objetivo del evento`. 
+
+Cuando un evento es disparado en un elemento, este a su vez dispara el mismo evento hacia su ancestros (esto es conocido como  `evento bubbling` o `propagación de evento`), el evento se propaga desde el elemento donde fué originado hasta el tope del arbol DOM. Gracias a esto es posible saber con exactitud en que elemento hijo se originó un evento. 
+
+
 * Explique cómo funciona `this` en JavaScript.
 * Explique cómo funciona la herencia de prototipos (prototypal inheritance) en JavaScript.
 * ¿Cómo realiza pruebas en JavaScript?
