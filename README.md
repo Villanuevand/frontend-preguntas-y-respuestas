@@ -138,8 +138,26 @@ Un `hashtable` no es más que un objeto que almacena datos con una estructura `c
 * ¿Cuál es la diferencia entre un "atributo" y una "propiedad"?
 * ¿Por qué es una mala idea extender objetos nativos de JavaScript?
 * ¿Por qué es una buena idea extender objetos nativos de JavaScript?
-* ¿Cuál es la diferencia entre el evento "document load" y el evento “document ready"?
-* ¿Cuál es la diferencia entre `==` y `===`?
+* ¿Cuál es la diferencia entre el evento "document load" y el evento “document ready"?.
+
+ 
+
+##### ¿Cuál es la diferencia entre `==` y `===`?
+
+La comparación con doble signo de igualdad `==` evalúa solo el valor de los elementos comparados, mientras que la realizada con triple signo de igualda `===` evalúa el valor y el tipo de los elementos.
+
+Para verificar esto rápidamente abre la consola del navegador y escribe lo siguiente: 
+```javascript
+  var a = 1;
+  var b = '1';
+````
+Y luego escribe: 
+```javascript
+  a == b;// true.
+  // Una vez ejecutada la primera comparativa realiza la segunda:
+  a === b; // false
+```
+
 * Si tiene que obtener un parametro de la URL, ¿cómo lo harías?
 * Explique la política de mismo origen (same-origin policy) y sus repercusiones en JavaScript.
 * ¿Puede describir los patrones de herencia en JavaScript?
