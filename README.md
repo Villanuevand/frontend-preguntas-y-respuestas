@@ -158,11 +158,27 @@ Array.prototype.duplicator = function() {
 ````
 
 * ¿Puede describir una estrategia para memorización (*memoization*, evitar repetir cálculos) en JavaScript?
-* ¿Por qué reciben el nombre de sentencias ternarias? ¿Qué significa la palabra "ternaria"? 
+
+
+##### ¿Por qué reciben el nombre de sentencias ternarias? ¿Qué significa la palabra "ternaria"? 
+
+Reciben este nombre porque la sentencia consta de 3 argumentes: 
+
+`expresion boleana ? valor si es cierto : valor si es falso`.
+
+Según la [RAE](http://www.rae.es/ "Real Academia Española") la palabra "Ternario, ria" tiene el siguiente significado: 
+
+> ternario, ria.
+> (Del lat. ternarĭus).
+> 1. adj. Compuesto de tres elementos, unidades o guarismos.
+> 2. m. Espacio de tres días dedicados a una devoción o ejercicio espiritual.
+
+Fuente: [Diccionario RAE: Ternario](http://lema.rae.es/drae/srv/search?key=ternario)
+
 
 ##### Haga un ciclo `for` de `100` iteraciones que imprima **"fizz"** en los múltiplos de `3`, **"buzz"** en los múltiplos de 5 y **"fizzbuzz"** en los múltiplos de `3` y `5`
 
-```
+```javascript
 for(var i = 1; i <= 100; i++) {   
   if(i % 3 === 0 && i % 5 === 0)
     console.log(i + ' fizzbuzz');
