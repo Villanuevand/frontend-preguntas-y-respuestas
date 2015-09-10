@@ -63,6 +63,8 @@ Dependendiendo del tipo del proyecto puedo o usar generadores con Yeoman, o crea
 * ¿Cuáles son los modelos de contenido usados en HTML4? ¿Puede compararlos a los de HTML5?
 * Si consideramos HTML5 como una plataforma web abierta, ¿cuáles son las piezas del lego que constituyen HTML5?
 * Describa la diferencia entre cookies, sessionStorage y localStorage.
+* ¿Qué son elementos abiertos y elementos cerrados?.
+* ¿Qué ocurre si olvidas colocar el `DOCTYPE` en un sitio web?.
 
 ####<a name='css'>Preguntas específicas de CSS:</a>
 
