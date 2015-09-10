@@ -91,6 +91,18 @@ Dependendiendo del tipo del proyecto puedo o usar generadores con Yeoman, o crea
 * ¿Cuál es la diferencia entre `inline` y `inline-block`?
 * ¿Cuál es la diferencia entre las posiciones `relative`, `fixed`, `absolute` y `static` para un elemento dado?
 * ¿Qué sabe sobre Css Flexbox y cuales son sus ventajas?
+* ¿Cuál es la diferencia entre `display:none` y `visibility:hidden`?
+ 
+
+##### Explica los siguientes selectores: 
+```css
+p span
+p, span
+p > span
+p + span
+p ~ span 
+a[rel='nofollow']
+```
 
 ####<a name='js'>Preguntas específicas de JavaScript:</a>
 
