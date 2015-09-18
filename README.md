@@ -48,7 +48,13 @@ Solamente 2 por dominio.
 ##### Si se ha unido a un proyecto y los desarrolladores usan tabs y usted usa espacios, ¿qué hace?
 ##### Escriba una página con una galería sencilla.
 ##### ¿Qué herramientas usa para probar el rendimiento de su código?
+
+Chrome Developer Tools. 
+
 ##### Si pudiera elegir una tecnología para dominar este año, ¿cuál sería?
+
+Definitivamente Javascript.
+
 ##### Explique la importancia de estándares y los grupos que los definen.
 ##### ¿Sabe que es el FOUC? ¿Cómo lo evita?
 
