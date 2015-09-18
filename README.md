@@ -41,6 +41,9 @@ Dependendiendo del tipo del proyecto puedo o usar generadores con Yeoman, o crea
 ##### ¿Cómo optimiza los recursos de una web?
 ##### ¿Por qué es mejor utilizar varios dominios para distribuir los recursos de una página web?
 ##### ¿Cuántos recursos se pueden descargar simultáneamente de un mismo dominio?
+
+Solamente 2 por dominio.
+
 ##### Mencione tres formas para disminuir el tiempo de carga de una página (tiempo real o percibido).
 ##### Si se ha unido a un proyecto y los desarrolladores usan tabs y usted usa espacios, ¿qué hace?
 ##### Escriba una página con una galería sencilla.
