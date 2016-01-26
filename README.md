@@ -34,8 +34,10 @@ Dependendiendo del tipo del proyecto puedo o usar generadores con Yeoman, o crea
  	* JS - Archivos Javascript
  	* ASSETS - Librerías. (jquery, modernizr, prototype, etc.)
  	* FONTS - Fuentes tipográficas.
- 
+
 ##### ¿Puede describir la diferencia entre "Progressive Enhancement" y "Graceful Degradation"?
+*"Progressive Enhacement"* ó *"Mejora Progresiva"* es el concepto opuesto a *"Graceful Degradation"* ó *"Degradación Elegante"* (cómo yo lo llamo). Cuando se habla de *progressive enhancement* hacemos referencia a la técnica en donde un sitio web, dispone de características más avanzadas (tanto de diseño, usabilidad, y navegabilidad), cuanto más avanzado o moderno sea el navegador que utiliza el usuario. *Graceful degradation* es todo lo contrario, mientras más antigúo es el navegador, el sitio web tendrá funcionalidades muy límitadas en comparación con uno que usa uno más moderno. Esta es básicamente la diferencia entre *"Progressive Enhancement"* y *"Graceful Degradation"*.
+
 ##### Explique qué significa "HTML Semántico".
 ##### ¿Cuál es el navegador que utiliza principalmente para el desarrollo y qué herramientas de desarrollo usa?
 ##### ¿Cómo optimiza los recursos de una web?
