@@ -39,6 +39,41 @@ Dependendiendo del tipo del proyecto puedo o usar generadores con Yeoman, o crea
 *"Progressive Enhacement"* ó *"Mejora Progresiva"* es el concepto opuesto a *"Graceful Degradation"* ó *"Degradación Elegante"* (cómo yo lo llamo). Cuando se habla de *progressive enhancement* hacemos referencia a la técnica en donde un sitio web, dispone de características más avanzadas (tanto de diseño, usabilidad, y navegabilidad), cuanto más avanzado o moderno sea el navegador que utiliza el usuario. *Graceful degradation* es todo lo contrario, mientras más antigúo es el navegador, el sitio web tendrá funcionalidades muy límitadas en comparación con uno que usa uno más moderno. Esta es básicamente la diferencia entre *"Progressive Enhancement"* y *"Graceful Degradation"*.
 
 ##### Explique qué significa "HTML Semántico".
+La palabra *"Semántica"* hace referencia a la ciencia linguística, que estudia el significado de las palabras y expresiones. Teniendo esto en cuenta, podemos decir que *"HTML Semántico"*, el es úso de las etiquetas HTML para expresar el significado real de la información en las páginas web, favoreciendo la usabilidad y accesibilidad.
+Se puede mirar de la siguiente manera: 
+
+```html
+<!-- HTML No Semántico -->
+<p>El título</p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed elementum nulla volutpat lorem euismod, 
+eu mattis lectus bibendum. Aenean id volutpat nulla. Sed tempor tincidunt dapibus. Donec viverra mi 
+quam, at sagittis quam fermentum at. Nullam maximus tortor in neque ornare, at facilisis turpis mattis.
+Praesent sagittis convallis diam eget ultricies. Nullam efficitur massa eu faucibus pretium. 
+Suspendisse bibendum augue ante, sed hendrerit mi dapibus cursus. Ut felis nisl, lobortis a lectus et, 
+semper dignissim leo.
+
+<ul>
+	<li>1 - lorem ipsum dolor </li>
+	<li>2 - lorel ipsum dolor </li>
+	<li>3 - lorem ipsum dolor </li>
+</ul>
+
+<!-- HTML Semántico -->
+<h1>El título</h1>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed elementum nulla volutpat lorem euismod, 
+eu mattis lectus bibendum. Aenean id volutpat nulla. Sed tempor tincidunt dapibus. Donec viverra mi quam, 
+at sagittis quam fermentum at. Nullam maximus tortor in neque ornare, at facilisis turpis mattis.</p>
+
+<p>Praesent sagittis convallis diam eget ultricies. Nullam efficitur massa eu faucibus pretium. 
+Suspendisse bibendum augue ante, sed hendrerit mi dapibus cursus. Ut felis nisl, lobortis a lectus et, 
+semper dignissim leo.</p>
+<ol>
+	<li>lorem ipsum dolor </li>
+	<li>lorel ipsum dolor </li>
+	<li>lorem ipsum dolor </li>
+</ol>
+```
+
 ##### ¿Cuál es el navegador que utiliza principalmente para el desarrollo y qué herramientas de desarrollo usa?
 ##### ¿Cómo optimiza los recursos de una web?
 ##### ¿Por qué es mejor utilizar varios dominios para distribuir los recursos de una página web?
