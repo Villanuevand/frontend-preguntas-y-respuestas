@@ -75,6 +75,16 @@ semper dignissim leo.</p>
 ```
 
 ##### ¿Cuál es el navegador que utiliza principalmente para el desarrollo y qué herramientas de desarrollo usa?
+Principalmente [ Google Chrome ](https://www.google.com/chrome/browser/desktop/index.html), pero siempre tengo instalados, [Mozilla Firefox](https://www.mozilla.org/es-AR/firefox/new/). Dentro de las herramientas que uso puedo mencionar: 
+- [Sublime Text].
+- [Chrome Developer Tools].
+- [AngularJs, (próximamente Angular)].
+- [Npm].
+- [Bower]
+- [Gulp, en fase inicial de incorporación en mis herramientas cotidianas].
+- [Sass].
+- [Livereload].
+-
 ##### ¿Cómo optimiza los recursos de una web?
 ##### ¿Por qué es mejor utilizar varios dominios para distribuir los recursos de una página web?
 ##### ¿Cuántos recursos se pueden descargar simultáneamente de un mismo dominio?
