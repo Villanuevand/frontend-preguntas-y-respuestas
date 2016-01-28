@@ -105,7 +105,12 @@ Definitivamente Javascript.
 
 ##### Explique la importancia de estándares y los grupos que los definen.
 ##### ¿Sabe que es el FOUC? ¿Cómo lo evita?
+*FOUC* es el acrónimo de __Flash Of Unstyled Content__ , es el fenómeno que ocurre, cuando al renderizar un sitio web, este se ve primero con los estilos por defecto del nevegador, y luego en un "pestañeo" los archivos creados por nosotros. Esto se puede originar por varios motivos, los más comúnes son: 
+- Alta latencia del servidor.
+- Excesos de archivos javascript.
+- Archivos css extremadamente grandes.
 
+Se puede evitar, creando archivos de estilos `.css` de tamaño moderado o varios distribuidos y optimizados (minificados y ofuscados). Tambien se puede aplicar __CSS Critical Path__. *Para saber más de Critical Path, leer este [enlace](https://www.smashingmagazine.com/2015/08/understanding-critical-css/)*
 ####<a name='html'>Preguntas específicas de HTML:</a>
 
 * ¿Qué función cumple el `doctype` y cuántos puede nombrar?
