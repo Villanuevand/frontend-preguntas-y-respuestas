@@ -84,7 +84,8 @@ Principalmente [ Google Chrome ](https://www.google.com/chrome/browser/desktop/i
 - [Gulp, en fase inicial de incorporación en mis herramientas cotidianas].
 - [Sass].
 - [Livereload].
--
+
+
 ##### ¿Cómo optimiza los recursos de una web?
 ##### ¿Por qué es mejor utilizar varios dominios para distribuir los recursos de una página web?
 ##### ¿Cuántos recursos se pueden descargar simultáneamente de un mismo dominio?
