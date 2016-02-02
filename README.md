@@ -300,6 +300,8 @@ Pregunta: ¿Cuál es el resultado de la siguiente sentencia?
 Pregunta: ¿Cuál es el resultado de la siguiente sentencia?
 ```javascript
 "i'm a lasagna hog".split("").reverse().join("");
+
+//  El resultado es: "goh angasal a m'i"
 ```
 
 Pregunta: ¿Cuál es el valor de **window.foo**?
