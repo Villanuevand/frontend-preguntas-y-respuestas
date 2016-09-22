@@ -256,7 +256,7 @@ Array.prototype.duplicator = function() {
 
 ##### ¿Por qué reciben el nombre de sentencias ternarias? ¿Qué significa la palabra "ternaria"? 
 
-Reciben este nombre porque la sentencia consta de 3 argumentes: 
+Reciben este nombre porque la sentencia consta de 3 argumentos: 
 
 `expresion boleana ? valor si es cierto : valor si es falso`.
 
