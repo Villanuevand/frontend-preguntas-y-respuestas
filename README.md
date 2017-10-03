@@ -1,4 +1,4 @@
-#Posibles preguntas para entrevista de trabajo (Desarrollador Frontend).
+# Posibles preguntas para entrevista de trabajo (Desarrollador Frontend).
 
 Este repositorio contiene las respuestas a posibles preguntas de entrevistas a programadores front-end. La idea fundamental de este repo es incrementar mis conocimientos. 
 
@@ -13,7 +13,17 @@ Este repositorio contiene las respuestas a posibles preguntas de entrevistas a p
   1. [Preguntas de código](#codigojs)
   1. [Preguntas divertidas](#divertidas)
 
-####<a name='general'>Preguntas generales:</a>
+#### <a name='general'>Preguntas generales:</a>
+
+* ¿Qué has aprendido en esta semana?
+* ¿Qué es lo que te interesa de la programación?
+* ¿Podría describir algún problema técnico que haya resuelto recientemente?
+* ¿Cuáles son las consideraciones del área de interfaces, rendimiento, posicionamiento, mantenimiento o seguridad que toma en cuenta al desarrollar sitios o aplicaciones web?
+* Si tuviera cinco hojas de estilo distintas, ¿cómo las integraría a su página web?
+* ¿Cómo optimizaría los recursos de un sitio web?
+* Explique qué son las Aplicaciones de internet enriquecidas y accesibles y los lectores de pantalla, además de cómo hacer una página web accesible
+* Explique las ventajas y desventajas de usar animaciones en CSS contrario a usar animaciones hechas con JavaScript.
+* ¿Qué significa CORS y a qué problema está relacionado?
 
 ##### ¿Qué sistemas de control de versiones ha usado?
 
@@ -86,7 +96,7 @@ Principalmente [ Google Chrome ](https://www.google.com/chrome/browser/desktop/i
 - [Livereload].
 
 
-##### ¿Cómo optimiza los recursos de una web?
+##### ¿Cómo optimizaría los recursos de un sitio web?
 ##### ¿Por qué es mejor utilizar varios dominios para distribuir los recursos de una página web?
 ##### ¿Cuántos recursos se pueden descargar simultáneamente de un mismo dominio?
 
@@ -111,7 +121,8 @@ Definitivamente Javascript.
 - Archivos css extremadamente grandes.
 
 Se puede evitar, creando archivos de estilos `.css` de tamaño moderado o varios distribuidos y optimizados (minificados y ofuscados). Tambien se puede aplicar __CSS Critical Path__. *Para saber más de Critical Path, leer este [enlace](https://www.smashingmagazine.com/2015/08/understanding-critical-css/)*
-####<a name='html'>Preguntas específicas de HTML:</a>
+
+#### <a name='html'>Preguntas específicas de HTML:</a>
 
 * ¿Qué función cumple el `doctype` y cuántos puede nombrar?
 * ¿Cuál es la diferencia entre el modo convencional y el "quirks mode"?
@@ -128,7 +139,7 @@ Se puede evitar, creando archivos de estilos `.css` de tamaño moderado o varios
 * ¿Qué son elementos abiertos y elementos cerrados?.
 * ¿Qué ocurre si olvidas colocar el `DOCTYPE` en un sitio web?.
 
-####<a name='css'>Preguntas específicas de CSS:</a>
+#### <a name='css'>Preguntas específicas de CSS:</a>
 
 * Describa qué es un archivo "reset" y por qué es útil.
 * Describa qué son los "floats" y su funcionamiento.
@@ -166,7 +177,7 @@ p ~ span
 a[rel='nofollow']
 ```
 
-####<a name='js'>Preguntas específicas de JavaScript:</a>
+#### <a name='js'>Preguntas específicas de JavaScript:</a>
 
 ##### Explique "event delegation".
 
@@ -326,7 +337,7 @@ foo.push(1);
 foo.push(2);
 ```
 
-####<a name='divertidas'>Preguntas divertidas:</a>
+#### <a name='divertidas'>Preguntas divertidas:</a>
 
 * ¿Qué es lo más genial que ha programado y qué es lo que más le enorgullece de ello?
 * ¿Cuáles son sus partes favoritas de las herramientas de desarrollo que usa?
