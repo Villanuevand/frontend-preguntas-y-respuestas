@@ -16,15 +16,22 @@ Este repositorio contiene las respuestas a posibles preguntas de entrevistas a p
 
 #### <a name='general'>Preguntas generales:</a>
 
+* Cuéntame sobre ti.
 * ¿Qué has aprendido en esta semana?
 * ¿Qué es lo que te interesa de la programación?
+* ¿Qué es lo que más te interesa de este puesto?
+* ¿Puedes decirme por qué elegiste una carrera como desarrollador front-end?
+* Para ti, ¿cuál es la relación ideal entre diseño visual y el desarrollo front-end?
 * ¿Podría describir algún problema técnico que haya resuelto recientemente?
 * ¿Cuáles son las consideraciones del área de interfaces, rendimiento, posicionamiento, mantenimiento o seguridad que toma en cuenta al desarrollar sitios o aplicaciones web?
 * Si tuviera cinco hojas de estilo distintas, ¿cómo las integraría a su página web?
 * ¿Cómo optimizaría los recursos de un sitio web?
-* Explique qué son las Aplicaciones de internet enriquecidas y accesibles y los lectores de pantalla, además de cómo hacer una página web accesible
+* Explique qué son las aplicaciones de internet enriquecidas y accesibles y los lectores de pantalla, además de cómo hacer una página web accesible.
 * Explique las ventajas y desventajas de usar animaciones en CSS, contrario a usar animaciones programadas en JavaScript.
 * ¿Qué significa CORS y a qué problema está relacionado?
+* Mencione una ocasión en la que pasó por alto una solución obvia para arreglar un problema de desarrollo de software.
+* ¿Cuál es su enfoque si sus compañeros dirigen el código en una dirección con la que no se siente usted confortable?
+* ¿Cómo maneja comentarios críticos o negativos en un ambiente laboral?
 
 ##### ¿Qué sistema de control de versiones ha usado?
 
@@ -64,6 +71,8 @@ Principalmente [ Google Chrome ](https://www.google.com/chrome/browser/desktop/i
 - [Webpack]
 
 ##### Si se ha unido a un proyecto y los desarrolladores usan tabulaciones y usted usa espacios, ¿qué hace?
+##### ¿Cómo empiezas a contribuir en el desarrollo de un software del que no fuiste parte desde sus inicios?
+
 ##### Escriba una página con una galería sencilla.
 ##### Si pudiera elegir una tecnología para dominar este año, ¿cuál sería?
 
@@ -110,6 +119,7 @@ Se puede evitar, creando archivos de estilos `.css` de tamaño moderado o varios
 * ¿Qué son elementos abiertos y elementos cerrados?
 * ¿Para qué son buenos los atributos `data-`?
 * Si consideramos HTML5 como una plataforma web abierta, ¿cuáles son las piezas del lego que constituyen HTML5?
+* ¿Cuáles son sus dos características favoritas de HTML5 y cómo las ha implementado en sus proyectos de front-end?
 * Describa la diferencia entre cookies, session storage, local storage e IndexedDB.
 * ¿Qué ocurre si olvidas colocar el `DOCTYPE` en un sitio web?
 #### Explique qué significa "HTML Semántico".
@@ -174,7 +184,8 @@ semper dignissim leo.</p>
 * ¿Cuál es la diferencia entre las posiciones `relative`, `fixed`, `absolute` y `static` para un elemento dado?
 * ¿Qué sabe sobre Css Flexbox y cuales son sus ventajas?
 * ¿Cuál es la diferencia entre `display:none` y `visibility:hidden`?
- 
+* Describe tu proceso mental para la selección de Flexbox vs CSS Grid para resolver un arreglo específico de componentes en una página web.
+
 
 ##### Explica los siguientes selectores: 
 ```css
@@ -187,6 +198,11 @@ a[rel='nofollow']
 ```
 
 #### <a name='js'>Preguntas específicas de JavaScript:</a>
+
+* ¿Cómo describirías la arquitectura de [Angular / React / Vue / Svelte / etc] a los desarrolladores full-stack de tu equipo?
+* Menciona algunos factores que hacen único a [Angular / React / Vue / Svelte / etc] de otros frameworks basados en JavaScript.
+* ¿Cuál es tu enfoque para la automatización de pruebas (pruebas unitarias, pruebas de componentes, pruebas e2e)?
+
 
 ##### Explique "event delegation".
 
